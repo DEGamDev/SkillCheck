@@ -1,7 +1,8 @@
 # SkillCheck
 
 ◆概要
-DeadByDailight風のスキルチェックシステム
+UnrealEngine4.27のプロジェクトファイル
+DeadByDailight風のスキルチェックシステムです。
 
 ◆操作方法
 移動　WASD
