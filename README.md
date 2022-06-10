@@ -2,7 +2,7 @@
 
 ◆概要
 UnrealEngine5.0.2のプロジェクトファイル
-DeadByDailight風のスキルチェックシステムです。
+DeadByDaylight風のスキルチェックシステムです。
 マルチプレイにも対応しています。
 
 ◆操作方法
