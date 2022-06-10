@@ -1,8 +1,9 @@
 # SkillCheck
 
 ◆概要
-UnrealEngine4.27のプロジェクトファイル
+UnrealEngine5.0.2のプロジェクトファイル
 DeadByDailight風のスキルチェックシステムです。
+マルチプレイにも対応しています。
 
 ◆操作方法
 移動　WASD
